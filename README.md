@@ -1,1 +1,1 @@
-# Azure-ML-Model-Deployment
+# Diabetes-ML-Model-Azure-Deployment
